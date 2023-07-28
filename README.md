@@ -22,10 +22,10 @@ Given a string of round, curly, and square open and closing brackets, return whe
 **Given the string**  [] ( { } ) " should return true.
 **Given the string** ( [ ) ] or ( ( ( ) should return false.
 
-> HA! This kind of taskswe did when were student
-> and has a work to write a lexical parser
+> HA! This kind of tasks we did when were students
+> and had a work to write a lexical parser
 > for any "invented" programming language!
-> So... this was done with pleasure))
+> So... this quiz was done with pleasure))
 
 Thanks!
 
